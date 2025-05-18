@@ -31,7 +31,7 @@
   </ul>
 
   <h3 style="color: #ff8800; margin-top: 2rem;">📲 Install App</h3>
-  <a href="#" id="installAppReadme" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #ff6600, #ff9900); color: #111; border-radius: 30px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 15px rgba(255, 102, 0, 0.3);">
+  <p>[https://unitewb.github.io/bengalcup]</p>
     📥 Install UniteWB App
   </a>
 </section>
