@@ -31,7 +31,6 @@
   </ul>
 
   <h3 style="color: #ff8800; margin-top: 2rem;">📲 Install App</h3>
-  <p>[https://unitewb.github.io/bengalcup]</p>
-    📥 Install UniteWB App
+  <p>https://unitewb.github.io/bengalcup</p>
   </a>
 </section>
