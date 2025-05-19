@@ -23,7 +23,7 @@
     <li>Some features may be experimental or under testing.</li>
   </ul>
 
-  <h3 style="color: #ff8800; margin-top: 2rem;">🔧 What Not to Expect</h3>
+  <h3 style="color: #ff8800; margin-top: 2rem;">🔧 Dropped: What Not to Expect</h3>
   <ul style="margin-left: 1rem;">
     <li>Live tournament results</li>
     <li>Push alerts (PWA)</li>
