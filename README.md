@@ -12,7 +12,8 @@
     <li><strong>v1.2</strong>: Leaderboard Carousel, Added Other Platforms, Added Other Tournaments, Scroll to Top button, Hamburger Menu</li>
     <li><strong>v2.0</strong>: Hamburger Menu Redesign, Improved Annimations, Scroll to Top Button Redesign</li>
     <li><strong>v2.1</strong>: Social Links Updated, Archive Links Updated, Registration Links Updated. Manual service worker caching.</li>
-    <li><strong>v2.2</strong>: PWA support, install button, offline support, UI redesign, push notification skeleton.</li>
+    <li><strong>v2.2</strong>: PWA support, install button, offline support, UI redesign, push notification </li>
+    <li><strong>v2.2.1</strong>: Logo redesign (need to uninstall the previous app)</li>
   </ul>
 
   <h3 style="color: #ff8800; margin-top: 2rem;">🧪 Beta: What to Expect</h3>
