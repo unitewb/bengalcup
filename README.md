@@ -14,6 +14,7 @@
     <li><strong>v2.1</strong>: Social Links Updated, Archive Links Updated, Registration Links Updated. Manual service worker caching.</li>
     <li><strong>v2.2</strong>: PWA support, install button, offline support, UI redesign, push notification </li>
     <li><strong>v2.2.1</strong>: Logo redesign (need to uninstall the previous app)</li>
+    <li><strong>v2.2.2</strong>: New Leaderboard img</li>
   </ul>
 
   <h3 style="color: #ff8800; margin-top: 2rem;">🧪 Beta: What to Expect</h3>
