@@ -1,7 +1,7 @@
 {
-  "name": "Pokemon Unite West Bengal",
+  "name": "UniteWb",
   "short_name": "UniteWB",
-  "description": "Connect with Pokemon Unite players in West Bengal, participate in tournaments and join the community.",
+  "description": "Find and participate in tournaments around you, join the community.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#111111",
@@ -29,13 +29,13 @@
   ],
   "screenshots": [
     {
-      "src": "./1.png",
+      "src": "./Bnr.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "./2.png",
+      "src": "./Bnr.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "narrow"
