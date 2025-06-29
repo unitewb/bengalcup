@@ -15,6 +15,7 @@
     <li><strong>v2.2</strong>: PWA support, install button, offline support, UI redesign, push notification </li>
     <li><strong>v2.2.1</strong>: Logo redesign (need to uninstall the previous app)</li>
     <li><strong>v2.2.2</strong>: New Leaderboard img</li>
+    <li><strong>v2.2.2</strong>: Added Hall of Fame Section</li>
   </ul>
 
   <h3 style="color: #ff8800; margin-top: 2rem;">🧪 Beta: What to Expect</h3>
